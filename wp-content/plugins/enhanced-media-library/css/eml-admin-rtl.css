@@ -92,7 +92,7 @@ a.eml-pro {
     top: 50%;
     right: 0;
 
-    background: url(/wp-content/plugins/enhanced-media-library/images/spinner.gif) no-repeat center bottom;
+    background: url(https://avrmedia.github.io/AvrMedia/wp-content/plugins/enhanced-media-library/images/spinner.gif) no-repeat center bottom;
     width: 100%;
     height: 120px;
     margin: -60px 0 0 0;
@@ -175,11 +175,11 @@ a.eml-pro {
 
 @font-face {
     font-family: 'webbistro';
-    src:url('/wp-content/plugins/enhanced-media-library/fonts/webbistro.eot');
-    src:url('/wp-content/plugins/enhanced-media-library/fonts/webbistro.eot#iefix') format('embedded-opentype'),
-        url('/wp-content/plugins/enhanced-media-library/fonts/webbistro.woff') format('woff'),
-        url('/wp-content/plugins/enhanced-media-library/fonts/webbistro.ttf') format('truetype'),
-        url('/wp-content/plugins/enhanced-media-library/fonts/webbistro.svg#webbistro') format('svg');
+    src:url('https://avrmedia.github.io/AvrMedia/wp-content/plugins/enhanced-media-library/fonts/webbistro.eot');
+    src:url('https://avrmedia.github.io/AvrMedia/wp-content/plugins/enhanced-media-library/fonts/webbistro.eot#iefix') format('embedded-opentype'),
+        url('https://avrmedia.github.io/AvrMedia/wp-content/plugins/enhanced-media-library/fonts/webbistro.woff') format('woff'),
+        url('https://avrmedia.github.io/AvrMedia/wp-content/plugins/enhanced-media-library/fonts/webbistro.ttf') format('truetype'),
+        url('https://avrmedia.github.io/AvrMedia/wp-content/plugins/enhanced-media-library/fonts/webbistro.svg#webbistro') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -189,7 +189,7 @@ a.eml-pro {
   (min-resolution: 120dpi) {
 
     .fullscreen-spinner-box .eml-spinner {
-        background-image: url(/wp-content/plugins/enhanced-media-library/images/spinner-2x.gif);
+        background-image: url(https://avrmedia.github.io/AvrMedia/wp-content/plugins/enhanced-media-library/images/spinner-2x.gif);
     }
 }
 
