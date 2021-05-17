@@ -9,10 +9,10 @@
 
 <channel>
 	<title>AvrMedia</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://avrmedia.github.io/AvrMedia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://avrmedia.github.io/AvrMedia/</link>
 	<description>Stream Live Movies and Web Series</description>
-	<lastBuildDate>Mon, 17 May 2021 09:27:06 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 May 2021 12:45:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/05/cropped-1bc31b8f-444f-45cb-aa9c-45f74c0e5d2c-1-32x32.jpg</url>
+	<url>https://avrmedia.github.io/AvrMedia/wp-content/uploads/2021/05/cropped-1bc31b8f-444f-45cb-aa9c-45f74c0e5d2c-1-32x32.jpg</url>
 	<title>AvrMedia</title>
-	<link>/</link>
+	<link>https://avrmedia.github.io/AvrMedia/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
